@@ -1,0 +1,7 @@
+db:
+    engine: sqlserver #[sqlserver, mysql, postgresql, sqllite, oracle]
+    server: localhost
+    database: master
+    username: sa
+    password: Password@111
+    port: 1433
