@@ -6,7 +6,7 @@ Black Ox
 .. image:: https://img.shields.io/pypi/v/black_ox.svg
         :target: https://pypi.python.org/pypi/black_ox
 
-.. image:: https://img.shields.io/travis/nawinto99/black_ox.svg
+.. image:: https://travis-ci.com/nawinto99/black_ox.svg?branch=master
         :target: https://travis-ci.com/nawinto99/black_ox
 
 .. image:: https://readthedocs.org/projects/black-ox/badge/?version=latest
