@@ -14,7 +14,7 @@ Black Ox
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/nawinto99/black_ox/shield.svg
+.. image:: https://pyup.io/repos/github/nawinto99/black_ox/python-3-shield.svg
      :target: https://pyup.io/repos/github/nawinto99/black_ox/
      :alt: Updates
 

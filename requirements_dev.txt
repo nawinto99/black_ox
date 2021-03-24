@@ -10,3 +10,5 @@ twine==3.4.1
 Click==7.1.2
 pytest==6.2.2
 pytest-runner==5.3.0
+pyodbc==4.0.30
+PyYAML==5.4.1
